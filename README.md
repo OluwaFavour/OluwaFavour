@@ -27,7 +27,7 @@ In my search for this particular golden chalice, though, I got sidetracked and e
 
 I might have forgotten to say this, but I'm in my third year of studying Computer Science. As a result, I feel comfortable asserting that I have a solid grounding in essentials like Data Structures and Algorithms.
 
-## While not slaving away at a computer,
+## The things I do while I'm not programming,
 
 When I'm not slumped over my desk tapping away at the keys, I'm reading something creative, be it a book, webcomic, manga, novel, or anything else. I'm a gamer, kind of, and in my spare time I like a wide variety of activities, including physical exercise, media consumption (anime, movies, etc.), creative expression, and musical enjoyment.
 
