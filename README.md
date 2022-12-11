@@ -16,7 +16,7 @@ In my stack? Unfortunately, it is not that straightforward. Just about anything 
 * HTML
 * CSS
 * Unity
-- PHP
+* PHP
 
 > In Addition
 
