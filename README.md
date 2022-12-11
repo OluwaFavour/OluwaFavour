@@ -1,11 +1,13 @@
 # Hi there 👋
+
 This is the GitHub page for Favour Olusayo - and that's me 😁.
 Find out all about me right here 👇
 
 I'm a programmer that takes pleasure in solving challenging problems and want to share some of my most interesting findings here.
 In my stack? Unfortunately, it is not that straightforward. Just about anything that catches my eye, even if it has nothing to do with technology, is something I will learn. I suppose I like encountering issues that need to be resolved. Let's put the babbling for another time, though. Here are the languages or technologies I use most often:
 
-## My Stack
+## My Main Stack
+
 * Python
 * Django
 * C#
@@ -14,6 +16,7 @@ In my stack? Unfortunately, it is not that straightforward. Just about anything 
 * HTML
 * CSS
 * Unity
+- PHP
 
 > In Addition
 
