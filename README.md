@@ -29,7 +29,7 @@ I might have forgotten to say this, but I'm in my third year of studying Compute
 
 ## The things I do while I'm not programming,
 
-When I'm not slumped over my desk tapping away at the keys, I'm reading something creative, be it a book, webcomic, manga, novel, or anything else. I'm a gamer, kind of, and in my spare time I like a wide variety of activities, including physical working out, media consumption (anime, movies, etc.), creative expression, and musical enjoyment.
+When I'm not slumped over my desk tapping away at the keys, I'm reading something creative, be it a book, webcomic, manga, novel, or anything else. I'm a gamer, kind of, and in my spare time I like a wide variety of activities, including working out, media consumption (anime, movies, etc.), creative expression, and musical enjoyment.
 
 <!--
 **OluwaFavour/OluwaFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
