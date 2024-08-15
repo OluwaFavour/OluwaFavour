@@ -22,11 +22,10 @@ In my stack? Unfortunately, it is not that straightforward. Just about anything 
 > In Addition
 
 Making a living as a professional game designer is one of my life's goals. And someday, I will; I know it.
-In my search for this particular golden chalice, though, I got sidetracked and ended up in the area of backend development, which is equally as lucrative. As for me, this is where I am right now. You may follow my day-to-day development and see examples of the projects I've created right here.
 
 > More, but only a tiny bit.
 
-I might have forgotten to say this, but I'm in my third year of studying Computer Science. As a result, I feel comfortable asserting that I have a solid grounding in essentials like Data Structures and Algorithms.
+I might have forgotten to say this, but I'm in my final year of studying Computer Science.
 
 ## The things I do while I'm not programming,
 
