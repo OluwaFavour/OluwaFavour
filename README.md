@@ -1,47 +1,65 @@
-# Hi there 👋
+<h1 align="center">Hey, I'm Favour 👋</h1>
 
-This is the GitHub page for Favour Olusayo - and that's me 😁.
-Find out all about me right here 👇
+<p align="center">
+  💻 Backend Engineer & Automation Developer — I build systems, bots, and workflows so you don’t have to touch the UI.
+</p>
 
-I'm a programmer that takes pleasure in solving challenging problems and want to share some of my most interesting findings here.
-In my stack? Unfortunately, it is not that straightforward. Just about anything that catches my eye, even if it has nothing to do with technology, is something I will learn. I suppose I like encountering issues that need to be resolved. Let's put the babbling for another time, though. Here are the languages or technologies I use most often:
+---
 
-## My Main Stack
+## 🚀 What I Do
 
-* Python
-* Django
-* FastAPI
-* C#
-* ASP.NET
-* Javascript
-* HTML
-* CSS
-* Unity
-* PHP
+I help businesses, teams, and solo builders automate workflows, build backend systems, and integrate scalable logic — cleanly and efficiently.
 
-> In Addition
+### 🤖 Bot Development
+- Crypto & forex trading bots (Binance, MQL5, indicator-driven logic)
+- Telegram, Slack, Discord bots
+- Event/webhook-based automation bots
 
-Making a living as a professional game designer is one of my life's goals. And someday, I will; I know it.
+### 🕸 Web Crawling & Scraping
+- Static/dynamic scrapers (BeautifulSoup, Selenium, Playwright)
+- Proxy handling, anti-bot bypass, structured data output
 
-> More, but only a tiny bit.
+### 🔁 Automation & Workflows
+- Workflow builders with n8n
+- API integrations, syncs, report generators, and task chains
 
-I might have forgotten to say this, but I'm in my final year of studying Computer Science.
+### 🧠 Backend Systems
+- FastAPI / Flask APIs (async, REST)
+- Auth, queues, schedulers, WebSockets
+- PostgreSQL, Redis, Firebase, Docker
 
-## The things I do while I'm not programming,
+### 📦 Infrastructure
+- Dockerized apps ready for VPS or cloud deployment
+- File storage, CDN integration, cron jobs, logging pipelines
 
-When I'm not slumped over my desk tapping away at the keys, I'm reading something creative, be it a book, webcomic, manga, novel, or anything else. I'm a gamer, kind of, and in my spare time I like a wide variety of activities, including calisthenics, media consumption (anime, movies, etc.), creative expression, and musical enjoyment.
+---
 
-<!--
-**OluwaFavour/OluwaFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Tools & Stack
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oluwafavour&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Reach Out
+
+- 💬 WhatsApp: [+234-814-254-9489]
+- 📧 Email: [nextgensolutionsagency.ng@gmail.com]
+- 🌐 Portfolio: [⚙️ work in progress]
+- 🧑‍💻 Upwork / LinkedIn: [https://www.linkedin.com/in/favour-olusayo]
+
+---
+
+<p align="center">Let’s build clean systems that run themselves 🔁</p>
