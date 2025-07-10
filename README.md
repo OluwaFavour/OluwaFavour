@@ -38,8 +38,10 @@ I help businesses, teams, and solo builders automate workflows, build backend sy
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-django-333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333?style=flat&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
 ![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n)
 
