@@ -58,7 +58,7 @@ I help businesses, teams, and solo builders automate workflows, build backend sy
 ## 📬 Reach Out
 
 - 💬 WhatsApp: [+234-814-254-9489]
-- 📧 Email: [nextgensolutionsagency.ng@gmail.com]
+- 📧 Email: [favourolusayo.a@gmail.com]
 - 🌐 Portfolio: [⚙️ work in progress]
 - 🧑‍💻 Upwork / LinkedIn: [https://www.linkedin.com/in/favour-olusayo]
 
