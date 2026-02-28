@@ -50,7 +50,7 @@ I help businesses, teams, and solo builders automate workflows, build backend sy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluwafavour&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=oluwafavour&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
